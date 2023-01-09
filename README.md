@@ -1,2 +1,2 @@
-# gcp-kb
-GCP  Knowledge Base
+# gcp
+GCP Notes
